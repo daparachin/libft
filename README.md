@@ -1,2 +1,4 @@
 # libft
-C
+42Prague first project 🧑🏽‍💻
+
+
